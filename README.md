@@ -6,9 +6,16 @@
 [[Colab example]](https://colab.research.google.com/github/openai/whisper/blob/master/notebooks/LibriSpeech.ipynb)
 
 Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
-##NOTE:ONEAPI SUPPOET
+
+
+
+## NOTE:ONEAPI SUPPOET
 Follow this:https://intel.github.io/intel-extension-for-pytorch/index.html#installation?platform=gpu&version=v2.1.10%2Bxpu
 then activate the one api env, python setup.py install, done.
+
+
+
+
 
 ## Approach
 
